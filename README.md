@@ -1,7 +1,7 @@
 # deep-learning-challenge
 
 #### N/B 
-The initial code provided for this report was executed on both Visual Studio and Google Colab using the files `starter_code.ipynb` and `starter_colab.ipynb`, respectively.
+The initial code provided for this report was executed on both Visual Studio and Google Colab using the files `starter_code.ipynb` and `starter_colab.ipynb`, respectively. Both starter codes produced graphs with different trajectories.
 
 ## Alphabet Soup Deep Learning Model Analysis
 
